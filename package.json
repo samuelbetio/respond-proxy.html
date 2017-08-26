@@ -1,5 +1,5 @@
 {
-  "name": "ha-status",
+  "name": "respond-proxy.html",
   "version": "0.0.3",
   "description": "HA Proxy status - http",
   "test": {
@@ -17,7 +17,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/myDevicesIoT/ha-status.git"
+    "url": "git+https://github.com/samuelbetio/respond-proxy.html.git"
   },
   "keywords": [
     "ha",
@@ -29,7 +29,7 @@
   "author": "Teo Deleanu",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/myDevicesIoT/ha-status/issues"
+    "url": "https://github.com/samuelbetio/respond-proxy.html"
   },
-  "homepage": "https://github.com/myDevicesIoT/ha-status#readme"
+  "homepage": "https://github.com/samuelbetio/respond-proxy.html#readme"
 }
